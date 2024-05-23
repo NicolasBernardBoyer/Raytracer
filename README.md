@@ -9,7 +9,7 @@ Here's what you have to do:
 - Clone the this repository
 - Clone the docker image
 - Start up docker
-- go in a command line, navigate to the folder for this repository and type ./windows/interactive_run.ps1 "*Path to raytracer here"
+- go in a command line, navigate to the folder for the docker image and type ./windows/interactive_run.ps1 "*Path to raytracer here*"
 - Now that you are in the docker container, navigate to the build folder of the raytracer (./code/build)
 - Once in the folder, you can parse a json file by running the raytracer as such: ./raytracer *insert path of the json file name here*
 - The json files are normally located in the assets folder.
