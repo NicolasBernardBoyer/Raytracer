@@ -11,7 +11,10 @@ Here's what you have to do:
 - Start up docker
 - go in a command line, navigate to the folder for the docker image and type ./windows/interactive_run.ps1 "*Path to raytracer here*"
 - Now that you are in the docker container, navigate to the build folder of the raytracer (./code/build)
-- Once in the folder, you can parse a json file by running the raytracer as such: ./raytracer *insert path of the json file name here*
+- run cmake with the following command: cmake ../
+- then run the following command: make
+- This creates the build files for the raytracer
+- You can now parse a json file by running the raytracer as such: ./raytracer *insert path of the json file name here*
 - The json files are normally located in the assets folder.
 
 These are the instructions in order to run the raytracer provided by my professor (credits to Tiberiu Popa) (you can also find this in the code folder):
