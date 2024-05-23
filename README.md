@@ -20,6 +20,7 @@ Here's what you have to do:
 - The json files are normally located in the assets folder.
 
 **PPM FILE LOGIC**
+
 ![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/343790f4-6dff-4305-8281-ad258448d387)
 Mandatory to have at least one geometry, one light and one output
 
