@@ -1,9 +1,24 @@
-**RAYTRACER PROJECT**
+
+**RAYTRACER PROJECT BY NICOLAS BOYER**
 
 This was a project created in my fourth semester as part of a Computer Graphics Project. It needs to be run on a specific docker image to function correctly.
 
 Use the docker image found in the following link, and follow the instructions: 
 https://github.com/tiperiu/COMP371_dockerimage
+
+**DISCLAIMER**
+
+I apologize if this project is hard to get running. It was an extremely complicated process that the professor provided and it may not run on some machines. 
+
+**EXAMPLE OUTPUTS**
+
+Here are some example outputs below for those who haven't gotten it to work, or those who don't want to go through the trouble of setting it up:
+
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/298b5ac0-4c56-4866-a2b2-6d1ee3d1ebc5)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/ed8189b6-ca75-4009-998c-17556577f0dd)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/07bf14b7-eebc-4da1-8114-fdfde3fc58a7)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/d8c46493-8ea3-4773-94c3-1a3b69b90027)
+
 
 **HOW TO SET UP**
 
