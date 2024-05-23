@@ -5,6 +5,8 @@ This was a project created in my fourth semester as part of a Computer Graphics 
 Use the docker image found in the following link, and follow the instructions: 
 https://github.com/tiperiu/COMP371_dockerimage
 
+**HOW TO SET UP**
+
 Here's what you have to do:
 - Clone the this repository
 - Clone the docker image
@@ -17,6 +19,18 @@ Here's what you have to do:
 - You can now parse a json file by running the raytracer as such: ./raytracer *insert path of the json file name here*
 - The json files are normally located in the assets folder.
 
+**PPM FILE LOGIC**
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/343790f4-6dff-4305-8281-ad258448d387)
+Mandatory to have at least one geometry, one light and one output
+
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/78ca748d-7a21-4fc0-a5e8-1c638a322c66)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/76d6f995-9575-45ef-a277-d776f2d2a71c)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/d45a5e2c-5dff-4dcf-84ea-195d0c947cb0)
+![image](https://github.com/NicolassBoyer/Raytracer/assets/77691659/33393b05-75c0-4be9-81b4-a2c0b116edb2)
+
+The Raytracer supports Direct Illumination, Path tracing (without lights), anti-aliasing, two-sided rendering, and sphere and rectangles primitives
+
+**PROFESSOR'S INSTRUCTIONS**
 These are the instructions in order to run the raytracer provided by my professor (credits to Tiberiu Popa) (you can also find this in the code folder):
 "
 This code is used for three purposes:
