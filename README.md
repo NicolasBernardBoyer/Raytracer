@@ -3,7 +3,7 @@
 
 This was a project created in my fourth semester as part of a Computer Graphics Project. It needs to be run on a specific docker image to function correctly.
 
-The programs takes in a json file containing information about the output and creates a ppm image with characteristics corresponding to those in the json file.
+The program takes in a json file as input containing information about the output and then generates a ppm image with characteristics corresponding to those in the json file.
 
 Use the docker image found in the following link, and follow the instructions: 
 https://github.com/tiperiu/COMP371_dockerimage
